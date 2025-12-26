@@ -1,9 +1,16 @@
+to install 
 pkg update && pkg upgrade -y
+
 pkg install git -y
-git clone https://github.com/qusay47/qusay-tool-pro.git
+
+git clone https://github.com/qusay47/qusay-
+tool-pro.git
+
 cd qusay-tool-pro
+
 chmod +x qusaypro 
-للتشغيل.                                                     ./qusaypro
+للتشغيل.                                                     
+./qusaypro
 bash qusaypro
 🧰 الأدوات المتوفرة
 🔍 Network Tools (فحص أجهزة، منافذ، Ping، Traceroute)
